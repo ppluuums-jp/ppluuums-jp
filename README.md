@@ -23,17 +23,6 @@
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Tokyo
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Dart** 
 
 ```text
