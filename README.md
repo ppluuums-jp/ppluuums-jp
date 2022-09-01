@@ -35,7 +35,14 @@ HCL                      1 repo              █░░░░░░░░░░�
 
 ```
 
-
-
  Last Updated on 31/08/2022 18:49:58 UTC
 <!--END_SECTION:waka-->
+
+### Technical Interests
+
+| Tier | Technical Topic | 
+| -------- | -------- |
+| Tier 0 |  Flutter (mobile), Google Cloud Platform, Contianer |
+| Tier 1 | Kubenetes, CI/CD(gitops), Golang, Clean Architecture |
+| Tier 2 | GAS, gPRC, Firebase, Cloud Spanner | 
+| Tier 3 | React, Typescript, Dart(sever-side), DevTools(Performance) |
