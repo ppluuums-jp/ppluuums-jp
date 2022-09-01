@@ -40,7 +40,7 @@ HCL                      1 repo              █░░░░░░░░░░�
 
 ### Technical Interests
 
-| Tier | Technical Topic | 
+| Tier | Topic | 
 | -------- | -------- |
 | Tier 0 |  Flutter (mobile), Google Cloud Platform, Container |
 | Tier 1 | Kubenetes, CI/CD(GitOps), Golang, Clean Architecture |
