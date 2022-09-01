@@ -43,6 +43,6 @@ HCL                      1 repo              █░░░░░░░░░░�
 | Tier | Technical Topic | 
 | -------- | -------- |
 | Tier 0 |  Flutter (mobile), Google Cloud Platform, Contianer |
-| Tier 1 | Kubenetes, CI/CD(gitops), Golang, Clean Architecture |
+| Tier 1 | Kubenetes, CI/CD(GitOps), Golang, Clean Architecture |
 | Tier 2 | GAS, gPRC, Firebase, Cloud Spanner | 
 | Tier 3 | React, Typescript, Dart(sever-side), DevTools(Performance) |
