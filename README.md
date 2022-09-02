@@ -44,7 +44,7 @@ HCL                      1 repo              █░░░░░░░░░░�
 
 | Tier | Topic | 
 | -------- | -------- |
-| Tier 0 |  Flutter, Google Cloud Platform, Container |
+| Tier 0 | Flutter, Google Cloud Platform, Container |
 | Tier 1 | Kubenetes, CI/CD(GitOps), Golang, Clean Architecture |
-| Tier 2 | GAS, gPRC, Firebase, Cloud Spanner, isucon | 
+| Tier 2 | Kotlin, gPRC, Firebase, Cloud Spanner, isucon | 
 | Tier 3 | React, Typescript, Dart(sever-side), DevTools(Performance) |
