@@ -44,7 +44,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 | Tier | Topic | 
 | -------- | -------- |
-| Tier 0 | Flutter, Google Cloud Platform, Container |
+| Tier 0 | Flutter, Google Cloud Platform, Container Runtime |
 | Tier 1 | Kubernetes, CI/CD(GitOps), Golang, Clean Architecture |
 | Tier 2 | Kotlin, gPRC, Firebase, Cloud Spanner, isucon | 
-| Tier 3 | React, Typescript, Dart(sever-side), DevTools(Performance) |
+| Tier 3 | Rust, Typescript, Dart(sever-side), DevTools(Performance) |
