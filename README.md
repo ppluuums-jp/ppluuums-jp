@@ -45,6 +45,6 @@ HCL                      3 repos             ██░░░░░░░░░�
 | Tier | Topic | 
 | -------- | -------- |
 | Tier 0 | Flutter, Google Cloud Platform, Container Runtime |
-| Tier 1 | Kubernetes, Nest.js, Hasura, Clean Architecture |
+| Tier 1 | Kubernetes, NestJS, Hasura, Clean Architecture |
 | Tier 2 | Kotlin, gPRC, Firebase, Cloud Spanner, Golang | 
 | Tier 3 | Rust, Typescript, Dart(sever-side), Next.js |
