@@ -1,50 +1,14 @@
-### 🤯🤯🤯🤯🤯
+<div align="center">
+<img src="https://user-images.githubusercontent.com/104049111/210082289-11657663-21b1-4f2a-b9c4-f460dd244ba4.gif" alt="Welcome" align="center">
+to my page.</div>
 
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 🏆 1,875 Contributions in the Year 2022
- > 
-> 📦 115.2 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 26 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    125 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.06% 
-🌆 Daytime    288 commits    ██████████░░░░░░░░░░░░░░░   41.62% 
-🌃 Evening    209 commits    ███████░░░░░░░░░░░░░░░░░░   30.2% 
-🌙 Night      70 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.12%
-
-```
-
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   22.5% 
-Go                       8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
-Dart                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-HCL                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
-
-```
-
-
-
- Last Updated on 29/12/2022 18:41:46 UTC
-<!--END_SECTION:waka-->
-
-### Technical Interests
-
-| Tier | Topic | 
-| -------- | -------- |
-| Tier 0 | Flutter, Google Cloud Platform, Container Runtime |
-| Tier 1 | Kubernetes, NestJS, Hasura, Clean Architecture |
-| Tier 2 | Kotlin, gPRC, Firebase, Cloud Spanner, Golang | 
-| Tier 3 | Rust, Typescript, Dart(sever-side), Next.js |
+<hr>
+<div align="center">
+<img src="https://camo.githubusercontent.com/93b08cf9dfcbf01a8306ebc9b8acd61b0f4fbd9d2fb7cece3d6dbd6a56060c19/68747470733a2f2f692e696d6775722e636f6d2f5943773437446d2e676966" alt="Welcome" align="center">
+</div>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ppluuums-jp&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ppluuums-jp&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ppluuums-jp&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+</p>
