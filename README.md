@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/104049111/210082289-11657663-21b1-4f2a-b9c4-f460dd244ba4.gif" alt="Welcome" align="center">
-to my page.</div>
+to my page.
+</div>
 
 <hr>
 <div align="center">
@@ -16,6 +17,5 @@ to my page.</div>
 </div>
 
 <div align="center">
-<p></p>
 <img src="https://profile-counter.glitch.me/ppluuums-jp/count.svg" alt="hit counter" align="center">
 </div>
